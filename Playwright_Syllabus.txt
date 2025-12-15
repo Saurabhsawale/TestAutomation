@@ -1,0 +1,55 @@
+Course Structure : Playwright
+
+->  Git Hub
+    ->  Create Repository
+    ->  clone Repository to local system.
+    ->  push/update code to GitHub.
+    ->  Create single branch
+    ->  Create multiple and switch between the branch.
+    ->  Collaborate on common repository
+    ->  Amend your commit
+    ->  Restore files
+    ->  clean git data.
+
+->  Typescript/Java script
+    ->  Variables
+    ->  conditional programming
+    ->  looping
+    ->  data types and their methods
+    ->  Functions
+    ->  Interface 
+    ->  OOPS concepts
+
+->  Tools (VS code, Git action, Node js)
+
+->  Playwright Automation Tools
+    ->  Installation and configuration
+    ->  Locators
+    ->  Handle alert, browser window, frames, dropdown
+    ->  take screenshot
+    ->  hover element, drag drop
+    ->  Auto wait
+    ->  Deal with multiple browser
+    ->  headless mode execution
+    ->  command line option to execute dynamic values
+    ->  Script Recording : code gen
+    ->  Trace viewer to debug and the execute automation.
+    ->  Generate report.
+    ->  POM (Page Object Model)
+    ->  Design a end to framework from different pages and 
+        test suite files
+    ->  Fixtures with the scope.
+    ->  assertion on UI element 
+    
+    ->  BDD framework feature file.
+    
+    
+->  API Automation with Playwright.
+
+->  CI/CD Integration with GitHub Action.
+
+->  Chat GPT/ Co-pilot / cursor AI
+
+->  Project work 2:
+    -> 1. During the class session
+    -> 2. Every student has to complete their own project.
